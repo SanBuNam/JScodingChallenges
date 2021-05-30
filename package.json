@@ -1,0 +1,23 @@
+{
+  "name": "algorithm",
+  "version": "1.0.0",
+  "description": "algorithm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SanBuNam/JscodingChallenges.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SanBuNam/JscodingChallenges/issues"
+  },
+  "homepage": "https://github.com/SanBuNam/JscodingChallenges#readme",
+  "dependencies": {
+    "jest": "^26.6.3",
+    "node": "^15.8.0"
+  }
+}
