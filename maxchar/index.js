@@ -5,22 +5,6 @@
 // maxChar("abcccccccd") === "c"
 // maxChar("apple 1231111") === "1"
 
-const string = "Hello There!";
-const chars = {};
-
-// creating the object to count
-// for (let char of string) {
-//   if (!chars[char]) {
-//     chars[char] = 1;
-//   } else {
-//     chars[char]++;
-//   }
-// }
-
-// for (let char of string) {
-//   chars[char] = chars[char] + 1 || 1;
-// }
-
 function maxChar(str) {
   const charMap = {};
   let max = 0;
